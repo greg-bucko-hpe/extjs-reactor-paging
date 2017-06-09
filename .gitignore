@@ -1,9 +1,3 @@
-node_modules
-dist
-.vscode
-.DS_Store
-.idea
-.sencha
-npm-debug.log*
-lerna-debug.log
-packages/reactor-scratch-pad
+/ext
+/node_modules
+/build
